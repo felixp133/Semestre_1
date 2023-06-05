@@ -1,0 +1,5 @@
+print("para calcular su imc se nesecita su altura y peso ")
+peso=input("ingrse su peso porfavor: ")
+altura=input("ingrese su altura porfavor: ")
+imc=peso/(altura**2)
+print("su imc es: ", imc)
