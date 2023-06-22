@@ -11,7 +11,7 @@ def concatenar(lista1,lista2):
 
 lista1=[1,2,3]
 lista2=[3,4,5]
-print(concatenar(lista1,lista2));
+print(concatenar(lista1,lista2))
 
 #03-Declarando una funcion y multiplicacion
 def multiplicacion (num1,num2):

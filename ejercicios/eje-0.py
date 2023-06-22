@@ -8,8 +8,8 @@ float()            #todos los numeros tienen un decimal
 int()              #contene los valores en enteros
 bool()             #combierte los valores en booleanos (TRUE o FALSE)
 complex()          #combierte los numeros a numeros complejos
-str()   
-type()             #dice el tipo de dato que es una variable           #combierte en cadena de texto
+str()              #combierte en cadena de texto
+type()             #dice el tipo de dato que es una variable          
 #####################################FUNCIONES################################################################
 variable.append(2) #agregar elemento en la ultima posicion
 variable.insert(2,3)#insertar elemento en una posicion 
