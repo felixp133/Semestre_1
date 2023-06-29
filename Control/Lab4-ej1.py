@@ -1,9 +1,8 @@
 pacientes = [ ["Pedro", 1.78], ["Constanza", 1.56], ["Amanda", 1.62] , ["Dario", 1.89],
 ["Fernanda", 1.67] ]
-print(pacientes[3])
 #A)
 def estatura_minima(pacientes):
-    estmin=float(min(pacientes)) 
+    estmin=min(pacientes) 
     print(estmin)
 estatura_minima
 #print(estatura_minima)
@@ -24,6 +23,6 @@ def encuentra_dario(pacientes2):
             print("El paciente dario no se encentra en la lista")
 
 #D)
-estatura_minima
-nuevo_pciente
-encuentra_dario
+estatura_minima(pacientes)
+nuevo_pciente(pacientes)
+encuentra_dario(pacientes)
