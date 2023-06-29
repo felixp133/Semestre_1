@@ -9,7 +9,10 @@ print("hola mi nombre es"+" "+nombre+" "+" y tengo"+str(edad))
 print(f"hola mi nombre es {nombre} y tengo {edad} años") 
 nombre= "Alejandro" 
 print("hola mi nuevo nombre es",nombre)
-nombre= "Felipe" 
+nombre="benjamin"
+name="diego"
+print("Hola mi nombre es ",nombre)
+print("Hola mi nombre es ",name) 
 edad= "18"
 ciudad= "osorno"
 region= "Los Lagos" 

@@ -65,4 +65,10 @@ datos_personales={
     "asignatura":{"estructura de datos","programacion"}
     }     #se puede tener un set dentreo de un diccionario
 datos_personales["institucion"]="USS"
+datos_personales["Ciudad"] = "Osorno"
+print(datos_personales)
+print("Diccionario con el nuevo campo:",datos_personales)
+#Eliminando un campo del diccionario
+del datos_personales["Ciudad"]
+print("Diccionario con el campo eliminado:",datos_personales)
 
